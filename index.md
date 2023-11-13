@@ -5,4 +5,6 @@
 #### 024u
 ##### pafja
 ###### vene<ula
-JALFJASLKFJlakjflsajkflskf
+JALFJASLKFJlakjflsajkflskf- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
